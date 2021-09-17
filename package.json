@@ -1,6 +1,6 @@
 {
-  "name": "xtraverse",
-  "version": "0.1.0",
+  "name": "xtraverse1",
+  "version": "0.1.1",
   "description": "Wrapper for simplifying XML traversal.",
   "keywords": [
     "xml",
@@ -11,15 +11,10 @@
   ],
   "repository": {
     "type": "git",
-    "url": "git://github.com/jaredhanson/node-xtraverse.git"
+    "url": "git://github.com/allanice001/node-xtraverse.git"
   },
   "bugs": {
-    "url": "http://github.com/jaredhanson/node-xtraverse/issues"
-  },
-  "author": {
-    "name": "Jared Hanson",
-    "email": "jaredhanson@gmail.com",
-    "url": "http://www.jaredhanson.net/"
+    "url": "http://github.com/allanice001/node-xtraverse/issues"
   },
   "licenses": [
     {
@@ -29,11 +24,11 @@
   ],
   "main": "./lib",
   "dependencies": {
-    "xmldom": "0.1.x"
+    "xmldom": "0.6.x"
   },
   "devDependencies": {
-    "mocha": "1.x.x",
-    "chai": "1.x.x"
+    "mocha": "9.x.x",
+    "chai": "4.x.x"
   },
   "engines": {
     "node": ">= 0.4.0"
