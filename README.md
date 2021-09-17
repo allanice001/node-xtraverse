@@ -1,9 +1,10 @@
-# xtraverse
+# xtraverse1
 
 [![Build](https://travis-ci.org/jaredhanson/node-xtraverse.png)](http://travis-ci.org/jaredhanson/node-xtraverse)
 [![Coverage](https://coveralls.io/repos/jaredhanson/node-xtraverse/badge.png)](https://coveralls.io/r/jaredhanson/node-xtraverse)
 [![Dependencies](https://david-dm.org/jaredhanson/node-xtraverse.png)](http://david-dm.org/jaredhanson/node-xtraverse)
 
+##A fork of the original xtraverse package - with updates.
 
 Simplified traversal and building of an XML DOM.
 
@@ -15,7 +16,7 @@ is W3C standard, provided by [XMLDOM](https://github.com/jindw/xmldom).
 
 ## Install
 
-    $ npm install xtraverse
+    $ npm install xtraverse1
 
 ## Usage
 
